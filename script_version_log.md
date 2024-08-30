@@ -1,5 +1,8 @@
 # Version History for script.js
 
+## Version 1.0.3 - 2024-08-30
+- Updated risk assessment colors to include five levels: Very Low, Low, Moderate, High, and Very High, based on the number of missed blocks.
+
 ## Version 1.0.2 - 2024-08-30
 - Updated risk assessment logic to include five levels: Very Low, Low, Moderate, High, and Very High, based on the number of missed blocks.
 
