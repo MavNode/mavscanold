@@ -1,5 +1,8 @@
 # Version History for validators.js
 
+## Version 1.0.2 - 2024-08-30
+- Added monitoring support for xshrimp validator.
+
 ## Version 1.0.1 - 2024-08-29
 - Added monitoring support for Neev Labs validator.
 
