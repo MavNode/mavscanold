@@ -11,7 +11,7 @@ const frozenBlocks = [
   { validator: "Scafire Node 5% Fee REStake Fast ❤️", missedBlocks: 12052 },
   { validator: "SHIDO4LIFE 🥋🤺👊🏼 | ✅ REStake", missedBlocks: 11887 },
   { validator: "Olim 🥷 VIP Services RESTAKE", missedBlocks: 11309 },
-  { validator: "🟢 Shidoverse 🔥 REStake 🚀", missedBlocks: 10851 },
+  { validator: "🟢 Shidoverse  🔥  REStake  🚀", missedBlocks: 10851 },
   { validator: "ShidoGuard", missedBlocks: 8593 },
   { validator: "CryptoWav3z", missedBlocks: 8364 },
   { validator: "BG-SHI-VAL01🦁 | REStake", missedBlocks: 7960 },
