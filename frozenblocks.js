@@ -23,7 +23,7 @@ const frozenBlocks = [
   { validator: "ShidoObserver || REStake", missedBlocks: 3713 },
   { validator: "🇸🇪 In Bjorn We Trust", missedBlocks: 3197 },
   { validator: "Shido Six", missedBlocks: 3125 },
-  { validator: "FrankLinvest📈 | RESTAKE☆", missedBlocks: 3112 },
+  { validator: "FrankLinvesting📈 | RESTAKE☆", missedBlocks: 3112 },
   { validator: "KENSEI ⚔️", missedBlocks: 3041 },
   { validator: "Maverick | MavNode - REStake", missedBlocks: 1389 },
   { validator: "Fox Node🦊 | RESTAKE", missedBlocks: 743 },
