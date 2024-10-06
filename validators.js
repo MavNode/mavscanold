@@ -197,6 +197,6 @@ const validators = {
     "shidovaloper1enknwkxy5qsm8qjqj583h9z2h7gvnyfvfpjnwq": {
         "base64": "G7nm0U4WAcgq0cJFLNXddwE8EKY=",
             "valcons": "shidovalcons1rwu7d52wzcqus2k3cfzje4wawuqncy9xk005xf"
-                // "name": "Sherlock Holmes"
+                // "name": "Sherlock Nodes"
     }
 };
